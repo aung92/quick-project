@@ -153,13 +153,14 @@ img {
 
 .s_container {
 	width: 90%;
-	margin: 15px auto;
-	overflow: hidden;}
+	margin: 20px auto;
+	overflow: hidden;
+	}
 
 .service1 {
 	width: 30%;
 	float: left;
-	margin: 0 5px;
+	margin: 0 5px 10px 5px;
 	padding: 0 12px;
 	background-color: #FEEBED;
 	font-family: 'Open Sans', sans-serif;
